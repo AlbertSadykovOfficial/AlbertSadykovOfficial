@@ -17,7 +17,7 @@
 <div align="center">
 	<br>
 	<a href="https://github.com/AlbertSadykovOfficial/AlbertSadykovOfficial/blob/main/skills.svg">
-		<img src="skills.svg" width="800" height="400" alt="Click to see the source">
+		<img src="./skills.svg" width="800" height="400" alt="Click to see the source">
 	</a>
 	<br>
 </div>
