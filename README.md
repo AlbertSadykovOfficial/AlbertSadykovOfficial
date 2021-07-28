@@ -4,12 +4,12 @@
 ---
 #### Навыки
 
-| Навыки|	Технологии		|По другому|
+| Навыки|	Технологии		|По-другому|
 |----------------|-------------------------------|-----------------------------|
 |BackEnd	 |<center>`'Python (Django Framework) / PHP'`</center>     |<center><img src='https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg' alt='' height='20'>  <img src='https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/php/php.svg' alt='' height='20'></center> |
 |FrontEnd	|<center>`'JS / HTML / CSS'`</center>|<center><img src='https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript.svg' alt='' height='20'> <img src='https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.svg' alt='' height='20'> <img src='https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css.svg' alt='' height='20'></center>|
 |Design		|<center>`'Photoshop / Figma / Blender'`</center>|<center><img src='https://cdn.iconscout.com/icon/free/png-256/adobe-photoshop-cc-1855022-1571403.png' alt='' height='20'> <img src='https://godesign.school/wp-content/uploads/2019/07/a558b426cb8973523f37bbed94cf0f09.png' alt='' height='20'> <img src='https://www.animarender.com/media/images/soft/blender.png' alt='' height='20'> </center>|
-|Extra Skills	|<center>`'Docker / Lua ( C++ )'`</center>|<center><img src='https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ' alt='' height='20'> <img src='https://cdn.worldvectorlogo.com/logos/lua.svg' alt='' height='30'></center>|
+|Extra Skills	|<center>`'Docker / Lua ( C++ )'`</center>|<center><img src='https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ' alt='' height='20'> <img src='https://cdn.freebiesupply.com/logos/large/2x/lua-5-logo-png-transparent.png' alt='' height='20'></center>|
 
 ----
 #### Образование
