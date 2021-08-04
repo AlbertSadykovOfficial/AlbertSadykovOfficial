@@ -14,8 +14,7 @@
 
 ----
 #### Образование
-<img src='https://github.com/AlbertSadykovOfficial/AlbertSadykovOfficial/blob/main/gubkin.png'  alt='Gubkin University' title='[2017-2021]' height='70'>
-<img src='https://github.com/AlbertSadykovOfficial/AlbertSadykovOfficial/blob/main/ITMO.png'  alt='ITMO University' title='[2021-2023]' height='70'>
+<img src='https://github.com/AlbertSadykovOfficial/AlbertSadykovOfficial/blob/main/gubkin.png'  alt='Gubkin University' title='[2017-2021]' height='70'><img src='https://github.com/AlbertSadykovOfficial/AlbertSadykovOfficial/blob/main/ITMO.png'  alt='ITMO University' title='[2021-2023]' height='70'>
 
 ---
 #### Дополнительные ссылки
