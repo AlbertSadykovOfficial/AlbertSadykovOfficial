@@ -7,14 +7,15 @@
 | Навыки|	Технологии		|По-другому|
 |----------------|-------------------------------|-----------------------------|
 |BackEnd	 |<center>`'Python (Django Framework) / PHP'`</center>     |<center><img src='https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/python/python.svg' alt='' height='20'>  <img src='https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/php/php.svg' alt='' height='20'></center> |
+|DB	 |<center>`'PostgreSQL / MySQL'`</center>     |<center><img src='https://github.com/AlbertSadykovOfficial/AlbertSadykovOfficial/blob/main/Postgresql.png' alt='' height='20'>  <img src='https://github.com/AlbertSadykovOfficial/AlbertSadykovOfficial/blob/main/mysql.png' alt='' height='20'></center> |
 |FrontEnd	|<center>`'JS / HTML / CSS'`</center>|<center><img src='https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/javascript/javascript.svg' alt='' height='20'> <img src='https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/html/html.svg' alt='' height='20'> <img src='https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/css/css.svg' alt='' height='20'></center>|
 |Design		|<center>`'Photoshop / Figma / Blender'`</center>|<center><img src='https://cdn.iconscout.com/icon/free/png-256/adobe-photoshop-cc-1855022-1571403.png' alt='' height='20'> <img src='https://godesign.school/wp-content/uploads/2019/07/a558b426cb8973523f37bbed94cf0f09.png' alt='' height='20'> <img src='https://www.animarender.com/media/images/soft/blender.png' alt='' height='20'> </center>|
-|Extra Skills	|<center>`'Docker / Lua ( C++ )'`</center>|<center><img src='https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ' alt='' height='20'> <img src='https://cdn.freebiesupply.com/logos/large/2x/lua-5-logo-png-transparent.png' alt='' height='25'></center>|
+|Extra Skills	|<center>`'BASH / Docker / Lua ( C++ )'`</center>|<center><img src='https://github.com/AlbertSadykovOfficial/AlbertSadykovOfficial/blob/main/bash.png'  height='20'> <img src='https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ' alt='' height='20'> <img src='https://cdn.freebiesupply.com/logos/large/2x/lua-5-logo-png-transparent.png' alt='' height='25'></center>|
 
 ----
 #### Образование
-<img src='https://p2te.ru/upload/iblock/2cd/2cdbb4dfa3792f416f7e18c0a25515f3.png'  alt='Gubkin University' title='[2017-2021]' height='70'>
-<!--<img src='https://upload.wikimedia.org/wikipedia/commons/4/43/ITMO_University_official_logo_horizontal.png'  alt='ITMO University' title='[2021-2023]' height='70'>-->
+<img src='https://github.com/AlbertSadykovOfficial/AlbertSadykovOfficial/blob/main/gubkin.png'  alt='Gubkin University' title='[2017-2021]' height='70'>
+<img src='https://github.com/AlbertSadykovOfficial/AlbertSadykovOfficial/blob/main/ITMO.png'  alt='ITMO University' title='[2021-2023]' height='70'>
 
 ---
 #### Дополнительные ссылки
